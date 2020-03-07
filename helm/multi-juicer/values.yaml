@@ -49,7 +49,7 @@ balancer:
 
 juiceShop:
   # Set to -1 to remove the max Juice Shop instance cap
-  maxInstances: 10
+  maxInstances: -1
   # Juice Shop Image to use
   image: bkimminich/juice-shop
   tag: v10.0.0
